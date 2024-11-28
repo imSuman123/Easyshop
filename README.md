@@ -5,5 +5,7 @@ Customers can browse through a variety of shops, select their desired products, 
 The platform is divided into three sections:
 
 1.Customer Section: Customers can explore shops, purchase products, and specify delivery preferences.
+
 2.Shopkeeper Section: Shopkeepers can create shops, manage products, view daily reports on orders and profits, and track business performance.
+
 3.Admin Section: Admins oversee the platform, ensuring smooth operation, managing users, and resolving issues.
